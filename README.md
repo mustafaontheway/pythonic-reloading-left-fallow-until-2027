@@ -1,8 +1,10 @@
 From 2026 to 2028:
 
-* Agentic AI
+* Polars (2026)
 
-* Polars
+* ----------------------
+
+* Agentic AI
 
 * Time Series
 
