@@ -4,8 +4,6 @@ From 2026 to 2028:
 
 ---------------------- (2027 - 2028) ------------------------------
 
-* Agentic AI
-
 * Time Series
 
 * Genetic Algorithms
